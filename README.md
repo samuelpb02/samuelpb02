@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Habilidades
 
-<!--
-**samuelpb02/samuelpb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+Frameworks: React, Next.js, Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Node.js, Express, Python (Django, Flask)
+
+Banco de dados: PostgreSQL, MySQL, MongoDB
+
+Versionamento de código: Git e GitHub
+
+Performance, SEO e acessibilidade
